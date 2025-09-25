@@ -1,2 +1,3 @@
 potato
 letuce
+tomato
